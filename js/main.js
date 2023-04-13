@@ -65,7 +65,7 @@ function changeCircleColor() {
     const rValue = document.querySelector('.r-value');
     const gValue = document.querySelector('.g-value');
     const bValue = document.querySelector('.b-value');
-    const aValue = document.querySelector('.a-value')
+    const aValue = document.querySelector('.a-value');
 
     rValue.textContent = bgColor.r;
     gValue.textContent = bgColor.g;
